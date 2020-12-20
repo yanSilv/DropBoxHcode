@@ -1,0 +1,10 @@
+# Bower.
+Utilizado para guardar as informações padrões de um projeto, o projeto com o arquivo padrão do Bower
+basta aplicar o comando:
+ 
+*npm install
+Para instalar
+
+npm install -g express-generation
+
+express --ejs (nome da aplicação)
