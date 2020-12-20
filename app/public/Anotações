@@ -8,3 +8,6 @@ Para instalar
 npm install -g express-generation
 
 express --ejs (nome da aplicação)
+
+#Para trabalhar com arquivos
+npm install formidable --save
